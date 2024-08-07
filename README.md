@@ -44,3 +44,6 @@ PS: Certificar-se de realizar o download dos pacotes de acordo com a arquitetura
 ###### Administrador
 
 - Julio Cesar Fornazier(JulioCF)
+
+# Forks From Cronus-Emulator
+ https://github.com/Cronus-Emulator/Cronus
